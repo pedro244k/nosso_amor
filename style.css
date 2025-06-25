@@ -42,3 +42,20 @@ h1 {
   padding: 10px;
   border-radius: 10px;
 }
+.description-box {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  width: 300px;
+  background: rgba(255, 255, 255, 0.15);
+  border: 2px solid #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  color: #fff;
+  font-size: 1rem;
+  box-shadow: 0 0 20px #ffccff;
+  backdrop-filter: blur(8px);
+  text-align: left;
+  line-height: 1.6;
+  font-family: 'Segoe UI', sans-serif;
+}
